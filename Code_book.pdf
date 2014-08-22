@@ -1,0 +1,19 @@
+DATA DICTIONARY - Human Activity Recognition Using Smartphones Data Set 
+
+Subject 
+  Volunteers  within an age bracket of 19-48 years
+  1  to 30
+
+
+Activities
+  Average sensor signals of embedded accelerometers and gyroscopes, 
+  captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz
+  1. WALKING
+  2. WALKING_UPSTAIRS 
+  3. WALKING_DOWNSTAIRS    
+  4. SITTING   
+  5. STANDING     
+  6. LAYING
+  
+
+  
